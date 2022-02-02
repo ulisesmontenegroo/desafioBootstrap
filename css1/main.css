@@ -3,45 +3,41 @@ body{
 }
 
 /* estilos Index */
-.colormenu{
+.colorMenu{
     background-color: #F5F5F5;
     margin-bottom: 20px;
     border-bottom:  1px solid gray;
 }
 
-.border-header{
+.borderHeader{
     border-bottom: 1px solid gray;
 }
 
-.margin-header{
+.marginHeader{
     margin-top: 10px;
 }
 
-.estilo-header{
+.estiloHeader{
     text-decoration: none;
     color: black;
 }
 
-.botones-main{
-    color: black;
-}
-
-.fondo-footer{
+.fondoFooter{
     background-color: black;
     color: blanchedalmond;
 }
 
-#border-radius{
+#borderRadius{
     border-radius: 100px;
     width: 800px;
     height: 400px;
 }
 
-.margin-marcas{
+.marginMarcas{
     margin: 40px;
 }
 
-#padding-footer{
+#paddingFooter{
     margin-top: 450px;
 }
 
@@ -55,7 +51,7 @@ body{
     color: black;
 }
 
-#tamano-imagen{
+#tamanoImagen{
     height: 400px;
     opacity: 0.2;
 }
@@ -78,10 +74,14 @@ body{
     margin-top: 30px;
 }
 
-.color-nosotros{
+.colorNosotros{
     background-color: gray;
     padding: 10px;
     border-radius: 10px;
+}
+
+#marginNosotros{
+    margin-top: 1100px;
 }
 
 /* contacto estilos */
