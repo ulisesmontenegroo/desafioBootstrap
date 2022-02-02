@@ -79,6 +79,23 @@ body{
 }
 
 .color-nosotros{
-    background-color: #30475E;
+    background-color: gray;
     padding: 10px;
+    border-radius: 10px;
 }
+
+/* contacto estilos */
+
+.marginFormulario{
+    margin: 10px 5px;
+}
+
+.colorFormulario{
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.estilosMapa{
+    margin-top: 20px;
+}
+
