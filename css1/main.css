@@ -3,6 +3,7 @@ body{
 }
 
 /* estilos Index */
+
 .colorMenu{
     background-color: #F5F5F5;
     margin-bottom: 20px;
@@ -80,8 +81,8 @@ body{
     border-radius: 10px;
 }
 
-#marginNosotros{
-    margin-top: 1100px;
+.mt-nosotros{
+    margin-top: 500px;
 }
 
 /* contacto estilos */
@@ -98,4 +99,12 @@ body{
 .estilosMapa{
     margin-top: 20px;
 }
+
+/* mediaqueries celular */
+@media screen and (max-width: 765px) and (min-width: 320px){
+    .mt-nosotros{
+        margin-top: 1200px;
+    }
+}
+
 
